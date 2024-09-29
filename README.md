@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Deploy to heroku
 
-<a href="https://heroku.com/deploy?template=https://github.com/CrazyMindd/KGS-Extractor.git">
+<a href="https://heroku.com/deploy?template=https://github.com/Rahulm9508/KGS-Extractor1">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
 </a>
 
